@@ -1,6 +1,6 @@
 # FastAPI CRUD App
 
-A beginner-friendly CRUD API project built using :contentReference[oaicite:0]{index=0}.
+A beginner-friendly CRUD API project built using : Chai aur code Youtube video ref
 
 ## Features
 
